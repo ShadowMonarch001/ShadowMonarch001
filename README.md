@@ -1,7 +1,7 @@
 [![MasterHead](https://d1m75rqqgidzqn.cloudfront.net/wp-data/2019/09/11134058/What-is-data-science-2.jpg)
 <h1 align="center">Hi 👋, I'm Meet Pandya</h1>
 <h3 align="center">A passionate Data Science Engineer from India</h3>
-<img align="right"  width="400" src="https://steamcommunity.com/sharedfiles/filedetails/?id=2217383700">
+<img align="right"  width="400" src="https://github.com/ShadowMonarch001/ShadowMonarch001/blob/main/Hello.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadowmonarch001&label=Profile%20views&color=0e75b6&style=flat" alt="shadowmonarch001" /> </p>
 
