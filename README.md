@@ -2,9 +2,8 @@
 <h1 align="center">Hi 👋, I'm Meet Pandya</h1>
 <h3 align="center">A passionate Data Science Engineering student from India</h3>
 <img align="right"  width="400" src="https://github.com/ShadowMonarch001/ShadowMonarch001/blob/main/Hello.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shadowmonarch001&label=Profile%20views&color=0e75b6&style=flat" alt="shadowmonarch001" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shadowmonarch001" alt="shadowmonarch001" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shadowmonarch001&label=Profile%20views&color=0e75b6&style=flat" alt="shadowmonarch001" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShadowMonarch001?tab=repositories](https://github.com/ShadowMonarch001?tab=repositories)
 
@@ -26,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shadowmonarch001&show_icons=true&locale=en" alt="shadowmonarch001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shadowmonarch001&" alt="shadowmonarch001" /></p>
+
